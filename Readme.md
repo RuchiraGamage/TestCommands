@@ -1,3 +1,13 @@
-##hello world
+# <a href='http://pluralsight.com'><img src='https://gillcleerenpluralsight.blob.core.windows.net/files/pluralsight.png' height='60' alt='Pluralsight Logo' /></a> A great course on Github
 
-##<a href="https://app.pluralsight.com/library/" ><img src="https://yt3.ggpht.com/a-/AAuE7mAMjAo3l4Qp_POrcrfk7qx_vcJKeCPKRWxVdQ=s900-mo-c-c0xffffffff-rj-k-no" height=40 weidth=40/></a>
+**Breaking updates**
+
+## Learn GitHub
+In this course, you will learn how to use GitHub successfully
+
+### The basics
+- Sample item 1
+- Sample item 2
+- Sample item 3
+- Sample item 4
+- Sample item 5
